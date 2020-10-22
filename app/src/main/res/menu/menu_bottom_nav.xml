@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    //TODO add string res
+    <item
+        android:id="@+id/recordFragment"
+        android:icon="@drawable/ic_micro"
+        android:title="Запись"/>
+    <item
+        android:id="@+id/listRecordFragment"
+        android:icon="@drawable/ic_list"
+        android:title="Список"/>
+</menu>
